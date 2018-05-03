@@ -1,0 +1,21 @@
+* {
+    margin: auto;
+}
+
+div{
+    clear: both;
+    width: 960px;
+}
+
+header {
+    float: left;
+    Width:100%;
+    background-color: #ffffff;
+    position: fixed;
+    border-bottom: 5px solid #cccccc;
+}
+
+heading {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
